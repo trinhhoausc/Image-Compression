@@ -1,2 +1,2 @@
 # Image-Compression
-![Image](Lenna512x512.pgm)
+![Image](file.jpg)
