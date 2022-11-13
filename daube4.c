@@ -1,6 +1,6 @@
 /****************************************************************************************
-*                       HOMEWORK4: Wavelet Image Compression using hybrid MPI/OpenMP    *
-*                       STUDENT: Hoa Trinh                                              *
+*                       Wavelet Image Compression using hybrid MPI/OpenMP               *
+*                                       Hoa Trinh                                       *
 *****************************************************************************************/
 #include <stdio.h>
 #include "mpi.h"
