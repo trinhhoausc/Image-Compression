@@ -1,2 +1,2 @@
 # Image-Compression
-![Image](file.jpg)
+![Image](lenna1.jpg)
