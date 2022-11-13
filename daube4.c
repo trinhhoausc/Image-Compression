@@ -7,7 +7,7 @@
 #include <omp.h>
 #define N 512					/* # of pixels in the orginal image */
 #define L 3					/* # of recursive halvings */
-#define MAXLINE 1024				/* ??? */
+#define MAXLINE 1024				/* 2*N */
 #define MAX 255 				/* max intensity */
 #define C0 0.482962
 #define C1 0.836516
